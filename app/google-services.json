@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256493659288",
+    "project_id": "outmate-134ce",
+    "storage_bucket": "outmate-134ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256493659288:android:9d8e009c8739335e65dced",
+        "android_client_info": {
+          "package_name": "me.vlasoff.outmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256493659288-tv24mifu1r1525241ipq541ohvbgvksa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPO7Lm5nfgaS8Hdk47pfiK2ibXFU85lvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256493659288-tv24mifu1r1525241ipq541ohvbgvksa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
